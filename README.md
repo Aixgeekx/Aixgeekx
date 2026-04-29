@@ -56,7 +56,7 @@
 | **💻 Software** | Mini programs, automation tools, personal management systems |
 | **🛠️ Project Support** | Course projects, prototype development, technical consultation |
 
-**联系方式**：微信 `泰枫零（Aixgeekx）`，欢迎项目咨询与接单沟通
+**联系方式**：微信 `泰枫零（微信号:Aixgeekx）`，欢迎项目咨询与接单沟通
 
 <p align="center">
   <img src="https://img.shields.io/badge/Freelance-Available-22C55E?style=for-the-badge" />
