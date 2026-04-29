@@ -44,6 +44,23 @@
 | [**newapi-auto-checkin**](https://github.com/Aixgeekx/newapi-auto-checkin) | Chrome extension for multi-site New API auto check-in with Cloudflare bypass workflow |
 | [**embedfire_FPGA_ks**](https://github.com/Aixgeekx/embedfire_FPGA_ks) | FPGA and Verilog practice repo for hardware exploration |
 
+### 🛒 Service / Freelance
+
+| **Direction** | **What I Can Build** |
+| :--- | :--- |
+| **⚙️ MCU / Embedded** | STM32, ESP32, Arduino, embedded software development |
+| **🔌 Hardware Design** | Circuit design, PCB design, hardware debugging |
+| **🧠 FPGA** | Verilog, digital logic, FPGA experiments and projects |
+| **💻 Software** | Mini programs, automation tools, personal management systems |
+| **🛠️ Project Support** | Course projects, prototype development, technical consultation |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Freelance-Available-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardware-STM32%20%7C%20ESP32%20%7C%20FPGA-2563EB?style=for-the-badge" />
+</p>
+
+<br />
+
 ### 📊 GitHub Stats
 
 <div align="center">
