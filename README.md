@@ -56,10 +56,11 @@
 | **💻 Software** | Mini programs, automation tools, personal management systems |
 | **🛠️ Project Support** | Course projects, prototype development, technical consultation |
 
+**联系方式**：微信 `泰枫零（Aixgeekx）`，欢迎项目咨询与接单沟通
+
 <p align="center">
   <img src="https://img.shields.io/badge/Freelance-Available-22C55E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Studio-%E6%9E%81%E9%81%93%E5%B7%A5%E4%BD%9C%E5%AE%A4-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WeChat-%E6%B3%B0%E6%9E%AB%E9%9B%B6%20%7C%20Aixgeekx-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 </p>
 
 <br />
@@ -81,6 +82,5 @@
 
 <p align="center">
   <a href="https://github.com/Aixgeekx" target="_blank"><img src="https://img.shields.io/badge/GitHub-Aixgeekx-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/Aixgeekx?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repos-Build_Log-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-  <img src="https://img.shields.io/badge/WeChat-%E6%B3%B0%E6%9E%AB%E9%9B%B6%20%7C%20Aixgeekx-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  <a href="https://github.com/Aixgeekx?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repos-Build_Log-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
