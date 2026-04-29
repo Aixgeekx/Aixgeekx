@@ -1,4 +1,6 @@
 <div align="center">
+  <h2>极道工作室</h2>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=Hello%20World,%20I'm%20Aixgeekx&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 
   <h3>🤖 AI Systems Builder | ⚙️ FPGA Explorer | 🛠️ Full Stack Developer</h3>
@@ -56,7 +58,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Freelance-Available-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hardware-STM32%20%7C%20ESP32%20%7C%20FPGA-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Studio-%E6%9E%81%E9%81%93%E5%B7%A5%E4%BD%9C%E5%AE%A4-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WeChat-%E6%B3%B0%E6%9E%AB%E9%9B%B6%20%7C%20Aixgeekx-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 </p>
 
 <br />
@@ -78,5 +81,6 @@
 
 <p align="center">
   <a href="https://github.com/Aixgeekx" target="_blank"><img src="https://img.shields.io/badge/GitHub-Aixgeekx-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/Aixgeekx?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repos-Build_Log-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Aixgeekx?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repos-Build_Log-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/WeChat-%E6%B3%B0%E6%9E%AB%E9%9B%B6%20%7C%20Aixgeekx-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 </p>
