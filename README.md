@@ -6,7 +6,7 @@
   <h3>🤖 AI Systems Builder | ⚙️ FPGA Explorer | 🛠️ Full Stack Developer</h3>
 
   <p>
-    <i>"Anything is possible when ideas become working systems."</i>
+    <i>"Anything is possible"</i>
   </p>
 
   <a href="https://github.com/Aixgeekx">
