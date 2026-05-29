@@ -38,6 +38,7 @@
 
 ## Profile Snapshot
 
+<div align="center">
 <table>
   <tr>
     <td width="25%" valign="top">
@@ -62,7 +63,9 @@
     </td>
   </tr>
 </table>
+</div>
 
+<div align="center">
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -79,50 +82,44 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
 ## Featured Work
 
 <div align="center">
-  <a href="https://github.com/Aixgeekx/AixSystems">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aixgeekx&repo=AixSystems&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=14B8A6" alt="AixSystems repository card" />
-  </a>
-  <a href="https://github.com/Aixgeekx/cc-web">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aixgeekx&repo=cc-web&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=14B8A6" alt="cc-web repository card" />
-  </a>
-  <a href="https://github.com/Aixgeekx/newapi-auto-checkin">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aixgeekx&repo=newapi-auto-checkin&theme=transparent&hide_border=true&title_color=F59E0B&text_color=334155&icon_color=2563EB" alt="newapi-auto-checkin repository card" />
-  </a>
-  <a href="https://github.com/Aixgeekx/lanqiao-fpga-textbook">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aixgeekx&repo=lanqiao-fpga-textbook&theme=transparent&hide_border=true&title_color=14B8A6&text_color=334155&icon_color=22C55E" alt="lanqiao-fpga-textbook repository card" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/Aixgeekx/AixSystems"><img src="https://img.shields.io/badge/AixSystems-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="AixSystems" /></a><br />
+        <strong>Personal management system shaped around real workflows.</strong><br />
+        <img src="https://img.shields.io/badge/System-Full--Stack-2563EB?style=flat-square" alt="Full-stack system" />
+        <img src="https://img.shields.io/badge/Active-22C55E?style=flat-square" alt="Active" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/Aixgeekx/cc-web"><img src="https://img.shields.io/badge/cc--web-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="cc-web" /></a><br />
+        <strong>Browser-based remote tool for Claude Code on low-resource servers.</strong><br />
+        <img src="https://img.shields.io/badge/Tool-Remote%20Engineering-111827?style=flat-square" alt="Remote engineering" />
+        <img src="https://img.shields.io/badge/Active-22C55E?style=flat-square" alt="Active" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/Aixgeekx/newapi-auto-checkin"><img src="https://img.shields.io/badge/newapi--auto--checkin-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="newapi-auto-checkin" /></a><br />
+        <strong>Chrome extension for multi-site New API check-in and Cloudflare workflows.</strong><br />
+        <img src="https://img.shields.io/badge/Focus-Automation-F59E0B?style=flat-square" alt="Automation" />
+        <img src="https://img.shields.io/badge/Extension-Chrome%20Web%20Store-22C55E?style=flat-square" alt="Extension" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/Aixgeekx/lanqiao-fpga-textbook"><img src="https://img.shields.io/badge/lanqiao--fpga--textbook-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="lanqiao-fpga-textbook" /></a><br />
+        <strong>FPGA learning notes, course material, and Markdown documentation.</strong><br />
+        <img src="https://img.shields.io/badge/Learning-FPGA-14B8A6?style=flat-square" alt="FPGA learning" />
+        <img src="https://img.shields.io/badge/Docs-Markdown-2563EB?style=flat-square" alt="Docs" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <strong>AixSystems</strong><br />
-      Personal management system shaped around real workflows.<br />
-      <img src="https://img.shields.io/badge/System-Full--Stack-2563EB?style=flat-square" alt="Full-stack system" />
-    </td>
-    <td width="25%" valign="top">
-      <strong>cc-web</strong><br />
-      Browser-based remote tool for using Claude Code on low-resource servers.<br />
-      <img src="https://img.shields.io/badge/Tool-Remote%20Engineering-111827?style=flat-square" alt="Remote engineering" />
-    </td>
-    <td width="25%" valign="top">
-      <strong>newapi-auto-checkin</strong><br />
-      Chrome extension for multi-site New API check-in and Cloudflare workflows.<br />
-      <img src="https://img.shields.io/badge/Focus-Automation-F59E0B?style=flat-square" alt="Automation" />
-    </td>
-    <td width="25%" valign="top">
-      <strong>lanqiao-fpga-textbook</strong><br />
-      FPGA learning notes, course material, and Markdown documentation.<br />
-      <img src="https://img.shields.io/badge/Learning-FPGA-14B8A6?style=flat-square" alt="FPGA learning" />
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -229,6 +226,7 @@
 
 ## Competition & Recognition
 
+<div align="center">
 <table>
   <tr>
     <td width="20%" align="center" valign="top">
@@ -258,6 +256,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -288,6 +287,7 @@
   <sub>Tech creator profile · software / AI / hardware collaboration · WeChat: Aixgeekx</sub>
 </div>
 
+<div align="center">
 <table>
   <tr>
     <td width="25%" align="center" valign="top">
@@ -308,12 +308,14 @@
     </td>
   </tr>
 </table>
+</div>
 
 <div align="center">
   <img src="assets/bilibili-traffic.svg" width="49%" alt="Bilibili traffic trend chart" />
   <img src="assets/bilibili-engagement.svg" width="49%" alt="Bilibili engagement trend chart" />
 </div>
 
+<div align="center">
 <table>
   <tr>
     <td width="16%" align="center" valign="top"><strong>120,187</strong><br /><sub>Likes · 点赞</sub></td>
@@ -324,6 +326,7 @@
     <td width="16%" align="center" valign="top"><strong>5,261</strong><br /><sub>Shares · 分享</sub></td>
   </tr>
 </table>
+</div>
 
 ---
 
