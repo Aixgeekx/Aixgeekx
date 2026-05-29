@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,24:2563EB,52:14B8A6,78:F59E0B,100:22C55E&height=240&section=header&text=Aixgeekx&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Systems%20%C3%97%20Automatic%20Control%20%C3%97%20AI%20Engineering%20%C3%97%20Hardware&descSize=17&descAlignY=66" alt="Aixgeekx profile header" />
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+systems+that+cross+boundaries;Software+%C3%97+AI+%C3%97+Hardware+%C3%97+Control;From+prototype+to+deployed+product" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+systems+that+cross+boundaries;Software+%C3%97+AI+%C3%97+Hardware+%C3%97+Control;From+prototype+to+deployed+product" alt="Typing SVG" />
 
   <p>
     <sub>中文：在计算机领域和自动控制科学领域具备跨层能力，擅长系统集成、工程落地和跨学科协作。</sub>
@@ -383,7 +383,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aixgeekx&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub trophies" />
+  <img src="https://img.shields.io/badge/Total%20Commits-500+-2563EB?style=flat-square" alt="Commits" />
+  <img src="https://img.shields.io/badge/Repositories-20+-14B8A6?style=flat-square" alt="Repos" />
+  <img src="https://img.shields.io/badge/Contributed%20to-5+-F59E0B?style=flat-square" alt="Contributed" />
+  <img src="https://img.shields.io/badge/Streak-Active-22C55E?style=flat-square" alt="Active" />
 </div>
 
 <div align="center">
