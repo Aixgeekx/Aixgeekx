@@ -1,48 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,28:2563EB,56:14B8A6,82:F59E0B,100:22C55E&height=230&section=header&text=Aixgeekx&fontSize=58&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI%20Agent%20Builder%20%7C%20FPGA%20Explorer%20%7C%20Startup%20Co-builder&descSize=18&descAlignY=66" alt="Aixgeekx profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,24:2563EB,52:14B8A6,78:F59E0B,100:22C55E&height=240&section=header&text=Aixgeekx&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Systems%20%C3%97%20Automatic%20Control%20%C3%97%20AI%20Engineering%20%C3%97%20Hardware&descSize=17&descAlignY=66" alt="Aixgeekx profile header" />
 
-  <h3>Building practical systems from idea to product.</h3>
+  <h3>Near full-stack across computer systems and automatic control.</h3>
   <p>
-    I connect product thinking, full-stack engineering, AI-native workflows, and hardware prototyping to turn rough ideas into useful systems.
+    I learn fast, connect disciplines quickly, and build end-to-end across software, AI, embedded hardware, control logic, and product delivery.
     <br />
-    <sub>中文：从需求拆解到 MVP、从软件系统到硬件原型，专注把想法落到可运行、可演示、可迭代的产品。</sub>
+    <sub>中文：在计算机领域和自动控制科学领域具备跨层能力，擅长快速学习、系统集成、工程落地和持续迭代。</sub>
   </p>
 
   <p>
     <a href="https://github.com/Aixgeekx?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Aixgeekx-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Aixgeekx" /></a>
-    <img src="https://img.shields.io/badge/Open%20to-MVPs%20%7C%20AI%20Tools%20%7C%20Hardware%20Products-14B8A6?style=for-the-badge" alt="Open to collaboration" />
-    <img src="https://img.shields.io/badge/Motto-Anything%20is%20possible-F59E0B?style=for-the-badge" alt="Anything is possible" />
+    <img src="https://img.shields.io/badge/Range-Computer%20Systems-2563EB?style=for-the-badge" alt="Computer systems" />
+    <img src="https://img.shields.io/badge/Range-Automatic%20Control-14B8A6?style=for-the-badge" alt="Automatic control" />
+    <img src="https://img.shields.io/badge/Core-Fast%20Learner-F59E0B?style=for-the-badge" alt="Fast learner" />
   </p>
 </div>
 
 <p align="center">
+  <a href="#operating-range">Operating Range</a> ·
   <a href="#what-i-build">What I Build</a> ·
+  <a href="#learning-engine">Learning Engine</a> ·
   <a href="#featured-work">Featured Work</a> ·
   <a href="#capability-map">Capability Map</a> ·
-  <a href="#current-focus">Current Focus</a> ·
   <a href="#contact">Contact</a>
 </p>
+
+## Operating Range
+
+<table>
+  <tr>
+    <td width="25%"><strong>Computer Systems</strong><br />Frontend, backend, databases, operating environments, DevOps, automation, security, and performance.<br /><sub>前端、后端、数据库、系统环境、运维、自动化、安全与性能。</sub></td>
+    <td width="25%"><strong>Automatic Control</strong><br />Control logic, dynamic systems, signal flow, embedded feedback loops, sensors, and real-world constraints.<br /><sub>控制逻辑、动态系统、信号链路、嵌入式闭环、传感器和工程约束。</sub></td>
+    <td width="25%"><strong>AI Engineering</strong><br />Agents, MCP, RAG, model integration, evaluation, prompt systems, and AI-native development workflows.<br /><sub>Agent、MCP、RAG、模型接入、评测、提示词系统和智能工作流。</sub></td>
+    <td width="25%"><strong>Hardware Integration</strong><br />FPGA, MCU, digital logic, sensors, PCB concepts, debugging, and software-hardware co-design.<br /><sub>FPGA、MCU、数字逻辑、传感器、PCB 概念、调试和软硬件协同。</sub></td>
+  </tr>
+</table>
 
 ## What I Build
 
 <table>
   <tr>
-    <td width="25%"><strong>AI-Native Tools</strong><br />Agents, MCP tools, RAG systems, coding workflows, and automation consoles.<br /><sub>AI Agent、MCP、RAG、提示词工程与智能工作流。</sub></td>
-    <td width="25%"><strong>Full-Stack Products</strong><br />Web apps, admin systems, APIs, databases, deployment, and operations.<br /><sub>前端、后端、数据库、管理后台、部署与运维。</sub></td>
-    <td width="25%"><strong>Hardware Prototypes</strong><br />FPGA, MCU, sensors, PCB concepts, embedded demos, and software-hardware integration.<br /><sub>FPGA、MCU、传感器、PCB 与软硬件联调。</sub></td>
-    <td width="25%"><strong>Startup MVPs</strong><br />Product scope, technical route, architecture, rapid delivery, and iteration loops.<br /><sub>需求拆解、技术路线、MVP 范围和迭代交付。</sub></td>
+    <td width="25%"><strong>Intelligent Systems</strong><br />AI tools, agent workflows, automation consoles, private knowledge systems, and decision-support products.<br /><sub>AI 工具、Agent 工作流、自动化控制台、私有知识库和决策辅助产品。</sub></td>
+    <td width="25%"><strong>Control-Aware Products</strong><br />Systems that connect software interfaces, control logic, hardware signals, and operational feedback.<br /><sub>连接软件界面、控制逻辑、硬件信号和运行反馈的工程系统。</sub></td>
+    <td width="25%"><strong>Full-Stack Platforms</strong><br />Web apps, admin systems, APIs, databases, deployment, observability, and workflow integration.<br /><sub>Web、管理后台、接口、数据库、部署、监控和业务流程集成。</sub></td>
+    <td width="25%"><strong>Prototype to Product</strong><br />From vague idea to MVP, from experiment to demo, from demo to maintainable product loop.<br /><sub>从模糊想法到 MVP，从实验到演示，从演示到可维护产品闭环。</sub></td>
   </tr>
 </table>
+
+## Learning Engine
+
+| Ability | How it shows up in work |
+| :-- | :-- |
+| **Rapid domain absorption** | I can enter unfamiliar technical territory quickly, extract the governing patterns, and build a working path forward.<br /><sub>快速进入陌生技术领域，抓住核心规律，形成可执行路线。</sub> |
+| **Cross-layer reasoning** | I connect UI, backend, data, runtime, hardware signals, and control behavior instead of treating them as isolated parts.<br /><sub>把界面、后端、数据、运行环境、硬件信号和控制行为作为整体系统理解。</sub> |
+| **First-principles debugging** | I trace failures from symptom to mechanism, then verify the fix with the smallest reliable test.<br /><sub>从现象追到机制，用最小可靠验证闭环修复。</sub> |
+| **Execution under ambiguity** | I can turn rough goals into requirements, architecture, milestones, code, tests, deployment, and iteration.<br /><sub>把粗略目标拆成需求、架构、里程碑、代码、测试、部署和迭代。</sub> |
 
 ## Collaboration
 
 | Best fit | What I can deliver |
 | :-- | :-- |
 | **Technical co-founder / startup partner** | Convert business ideas into MVP scope, architecture, delivery rhythm, and a working product.<br /><sub>创业合伙、技术合伙、产品从 0 到 1 落地。</sub> |
-| **AI product co-builder** | Design agent workflows, MCP tools, private knowledge systems, model integration, and evaluation loops.<br /><sub>AI 产品共建、自动化系统、私有知识库和工具链。</sub> |
-| **Full-stack system builder** | Ship Web / App / Backend / Database / Admin / Deployment as one coherent system.<br /><sub>全栈系统一体化开发与交付。</sub> |
-| **Hardware prototype partner** | Build demonstrable FPGA / MCU / sensor prototypes with connected software workflows.<br /><sub>硬件产品原型、课程实验和可演示样机。</sub> |
-| **Automation engineer** | Create browser extensions, scripts, data pipelines, remote tools, and workflow automation.<br /><sub>浏览器扩展、脚本、数据处理和业务流程自动化。</sub> |
+| **AI and automation product co-builder** | Design agent workflows, MCP tools, private knowledge systems, model integration, evaluation loops, and automation pipelines.<br /><sub>AI 产品、自动化系统、私有知识库、模型接入和工具链。</sub> |
+| **Computer + control system builder** | Connect software systems with control logic, embedded devices, sensors, data feedback, and operating constraints.<br /><sub>连接计算机系统、控制逻辑、嵌入式设备、传感器和运行约束。</sub> |
+| **Full-stack platform engineer** | Ship Web / App / Backend / Database / Admin / Deployment as one coherent system.<br /><sub>全栈平台一体化开发与交付。</sub> |
+| **Prototype engineer** | Build demonstrable software, hardware, and automation prototypes that can evolve into real products.<br /><sub>构建可演示、可迭代的软件、硬件和自动化原型。</sub> |
 
 ## Featured Work
 
@@ -77,13 +99,13 @@
 
 | Layer | Practical skills |
 | :-- | :-- |
-| **Frontend** | React, Vue, Next.js, Vite, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, responsive UI engineering |
-| **Backend** | Node.js, Python, FastAPI, Express, REST APIs, auth, task queues, scheduled jobs, lightweight services |
-| **Database** | SQLite, MySQL, PostgreSQL, Redis, schema design, migrations, query optimization, data workflows |
-| **AI Engineering** | Claude Code, Codex, OpenAI API, MCP, RAG, agent workflows, prompt engineering, evaluation, automation |
-| **Hardware** | Verilog, FPGA, STM32, ESP32, Arduino, digital logic, PCB concepts, sensors, embedded debugging |
-| **DevOps** | Linux, Docker, Nginx, GitHub Actions, Cloudflare, Vercel, deployment, logs, monitoring |
-| **Product** | User stories, MVP planning, roadmap, technical due diligence, founder support, delivery management |
+| **Frontend & UX** | React, Vue, Next.js, Vite, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, responsive UI engineering |
+| **Backend & Data** | Node.js, Python, FastAPI, Express, REST APIs, auth, task queues, scheduled jobs, data modeling, query optimization |
+| **Systems & DevOps** | Linux, Docker, Nginx, GitHub Actions, Cloudflare, Vercel, deployment, logs, monitoring, automation scripts |
+| **AI Engineering** | Claude Code, Codex, OpenAI API, MCP, RAG, agent workflows, prompt engineering, evaluation, AI automation |
+| **Automatic Control** | Control logic, feedback systems, state reasoning, signal flow, system modeling mindset, real-world constraints |
+| **Embedded & Hardware** | Verilog, FPGA, STM32, ESP32, Arduino, digital logic, PCB concepts, sensors, embedded debugging |
+| **Product & Startup** | User stories, MVP planning, roadmap, technical due diligence, founder support, delivery management |
 
 ## Tech Stack
 
@@ -110,6 +132,8 @@
   <img src="https://img.shields.io/badge/Codex-2563EB?style=flat-square" alt="Codex" />
   <img src="https://img.shields.io/badge/MCP-14B8A6?style=flat-square" alt="MCP" />
   <img src="https://img.shields.io/badge/RAG-F59E0B?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Control%20Systems-14B8A6?style=flat-square" alt="Control Systems" />
+  <img src="https://img.shields.io/badge/System%20Integration-22C55E?style=flat-square" alt="System Integration" />
   <img src="https://img.shields.io/badge/Verilog-111827?style=flat-square" alt="Verilog" />
   <img src="https://img.shields.io/badge/FPGA-2563EB?style=flat-square" alt="FPGA" />
   <img src="https://img.shields.io/badge/STM32-14B8A6?style=flat-square" alt="STM32" />
@@ -130,11 +154,11 @@
 ## Current Focus
 
 - Building reliable AI-native development workflows and practical agent tools.
-- Turning full-stack experiments into usable products with deployment paths.
-- Making FPGA and embedded learning repeatable through clear experiments.
-- Helping founders move from idea to MVP with faster technical decisions.
+- Expanding from software full-stack toward control-aware, hardware-connected intelligent systems.
+- Making FPGA, embedded, and automatic control learning repeatable through clear experiments.
+- Turning vague ideas into MVPs through fast learning, architecture, implementation, and iteration.
 
-<sub>中文摘要：当前聚焦 AI 工程工具、全栈系统产品化、FPGA/嵌入式实验体系，以及创业项目从想法到 MVP 的快速落地。</sub>
+<sub>中文摘要：当前聚焦 AI 工程工具、计算机全栈系统、自动控制与嵌入式实验体系，以及创业项目从想法到 MVP 的快速落地。</sub>
 
 ## Contact
 
