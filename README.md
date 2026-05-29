@@ -282,50 +282,48 @@
 
 <div align="center">
   <a href="https://space.bilibili.com/647504492"><img src="https://img.shields.io/badge/Bilibili-Aix%E6%9E%81%E9%81%93%E5%B7%A5%E4%BD%9C%E5%AE%A4-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Aix Studio profile" /></a>
-  <br />
+  <br /><br />
   <strong>Aix 极道工作室</strong><br />
   <sub>Tech creator profile · software / AI / hardware collaboration · WeChat: Aixgeekx</sub>
-</div>
 
-<div align="center">
-<table>
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <strong>Aix Studio</strong><br />
-      <sub>Profile identity · Aix 极道工作室</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <strong>1,073</strong><br />
-      <sub>Following · 关注数</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <strong>553</strong><br />
-      <sub>Followers · 粉丝数</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <strong>LV5</strong><br />
-      <sub>Bilibili level · 账号等级</sub>
-    </td>
-  </tr>
-</table>
-</div>
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/%E2%80%8B-00A1D6?style=flat-square&label=%E2%80%8B&labelColor=00A1D6" height="4" width="200" alt="" /><br />
+        <strong>Aix Studio</strong><br />
+        <sub>Profile identity</sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/%E2%80%8B-F59E0B?style=flat-square&label=%E2%80%8B&labelColor=F59E0B" height="4" width="200" alt="" /><br />
+        <strong>1,073</strong><br />
+        <sub>Following</sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/%E2%80%8B-22C55E?style=flat-square&label=%E2%80%8B&labelColor=22C55E" height="4" width="200" alt="" /><br />
+        <strong>553</strong><br />
+        <sub>Followers</sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/%E2%80%8B-2563EB?style=flat-square&label=%E2%80%8B&labelColor=2563EB" height="4" width="200" alt="" /><br />
+        <strong>LV5</strong><br />
+        <sub>Bilibili Level</sub>
+      </td>
+    </tr>
+  </table>
 
-<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Likes-120%2C187-2563EB?style=flat-square" alt="Likes" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Favorites-8%2C533-14B8A6?style=flat-square" alt="Favorites" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Coins-3%2C019-F59E0B?style=flat-square" alt="Coins" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Comments-4%2C362-22C55E?style=flat-square" alt="Comments" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Danmaku-7%2C532-111827?style=flat-square" alt="Danmaku" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Shares-5%2C261-00A1D6?style=flat-square" alt="Shares" /></td>
+    </tr>
+  </table>
+
   <img src="assets/bilibili-traffic.svg" width="49%" alt="Bilibili traffic trend chart" />
   <img src="assets/bilibili-engagement.svg" width="49%" alt="Bilibili engagement trend chart" />
-</div>
-
-<div align="center">
-<table>
-  <tr>
-    <td width="16%" align="center" valign="top"><strong>120,187</strong><br /><sub>Likes · 点赞</sub></td>
-    <td width="16%" align="center" valign="top"><strong>8,533</strong><br /><sub>Favorites · 收藏</sub></td>
-    <td width="16%" align="center" valign="top"><strong>3,019</strong><br /><sub>Coins · 投币</sub></td>
-    <td width="16%" align="center" valign="top"><strong>4,362</strong><br /><sub>Comments · 评论</sub></td>
-    <td width="16%" align="center" valign="top"><strong>7,532</strong><br /><sub>Danmaku · 弹幕</sub></td>
-    <td width="16%" align="center" valign="top"><strong>5,261</strong><br /><sub>Shares · 分享</sub></td>
-  </tr>
-</table>
 </div>
 
 ---
