@@ -3,16 +3,16 @@
 
   <h3>Near full-stack across computer systems and automatic control.</h3>
   <p>
-    I learn fast, connect disciplines quickly, and build end-to-end across software, AI, embedded hardware, control logic, and product delivery.
+    Building end-to-end across software, AI, embedded hardware, control logic, and product delivery — connecting disciplines that are usually kept apart.
     <br />
-    <sub>中文：在计算机领域和自动控制科学领域具备跨层能力，擅长快速学习、系统集成、工程落地和持续迭代。</sub>
+    <sub>中文：在计算机领域和自动控制科学领域具备跨层能力，擅长系统集成、工程落地和跨学科协作。</sub>
   </p>
 
   <p>
     <a href="https://github.com/Aixgeekx?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Aixgeekx-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Aixgeekx" /></a>
     <img src="https://img.shields.io/badge/Range-Computer%20Systems-2563EB?style=for-the-badge" alt="Computer systems" />
     <img src="https://img.shields.io/badge/Range-Automatic%20Control-14B8A6?style=for-the-badge" alt="Automatic control" />
-    <img src="https://img.shields.io/badge/Core-Fast%20Learner-F59E0B?style=for-the-badge" alt="Fast learner" />
+    <img src="https://img.shields.io/badge/Core-Cross-Domain%20Builder-F59E0B?style=for-the-badge" alt="Cross-domain builder" />
   </p>
 </div>
 
