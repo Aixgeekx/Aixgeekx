@@ -27,6 +27,7 @@
   <a href="#capability-map">Capability Map</a> ·
   <a href="#tech-stack">Tech Stack</a> ·
   <a href="#github-activity">Activity</a> ·
+  <a href="#creator-profile">Creator</a> ·
   <a href="#contact">Contact</a>
 </p>
 
@@ -386,19 +387,70 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-500+-2563EB?style=flat-square" alt="Commits" />
-  <img src="https://img.shields.io/badge/Repositories-20+-14B8A6?style=flat-square" alt="Repos" />
-  <img src="https://img.shields.io/badge/Contributed%20to-5+-F59E0B?style=flat-square" alt="Contributed" />
-  <img src="https://img.shields.io/badge/Streak-Active-22C55E?style=flat-square" alt="Active" />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aixgeekx/Aixgeekx/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aixgeekx/Aixgeekx/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Aixgeekx/Aixgeekx/output/github-snake.svg" />
   </picture>
 </div>
+
+---
+
+## Creator Profile
+
+<div align="center">
+  <a href="https://space.bilibili.com"><img src="https://img.shields.io/badge/Bilibili-泰枫零-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+</div>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/👀-Views-00A1D6?style=for-the-badge" alt="Views" /><br />
+      <strong>2,155,534</strong><br />
+      <sub>215.5 万播放</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/❤️-Likes-00A1D6?style=for-the-badge" alt="Likes" /><br />
+      <strong>120,187</strong><br />
+      <sub>12 万点赞</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/👥-Fans-00A1D6?style=for-the-badge" alt="Fans" /><br />
+      <strong>553</strong><br />
+      <sub>粉丝</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/💬-Comments-00A1D6?style=flat-square" alt="Comments" /><br />
+      <strong>4,362</strong><br />
+      <sub>评论</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/⭐-Favorites-00A1D6?style=flat-square" alt="Favorites" /><br />
+      <strong>8,533</strong><br />
+      <sub>收藏</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/💬-Danmaku-00A1D6?style=flat-square" alt="Danmaku" /><br />
+      <strong>7,532</strong><br />
+      <sub>弹幕</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/🪙-Coins-00A1D6?style=flat-square" alt="Coins" /><br />
+      <strong>3,019</strong><br />
+      <sub>投币</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/🔄-Shares-00A1D6?style=flat-square" alt="Shares" /><br />
+      <strong>5,261</strong><br />
+      <sub>分享</sub>
+    </td>
+    <td width="33%"></td>
+  </tr>
+</table>
 
 ---
 
