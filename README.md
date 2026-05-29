@@ -1,26 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0B1120,28:2563EB,55:14B8A6,78:F59E0B,100:22C55E&text=Aixgeekx&fontColor=FFFFFF&fontSize=64&fontAlignY=36&animation=fadeIn&desc=AI-native%20Software%20Engineer%20%C2%B7%20Control-aware%20Builder%20%C2%B7%20Embedded%20Systems%20Explorer&descAlignY=58&descSize=17" alt="Aixgeekx profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0B1120,28:2563EB,55:14B8A6,78:F59E0B,100:22C55E&text=Aixgeekx&fontColor=FFFFFF&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Computer%20Science%20%C3%97%20Automatic%20Control%20%C3%97%20AI%20Engineering%20%C3%97%20Embedded%20Systems&descAlignY=58&descSize=17" alt="Aixgeekx profile banner" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=450&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=116&lines=Building+software%2C+agents%2C+control-aware+systems;Connecting+product+%C2%B7+model+%C2%B7+firmware+%C2%B7+sensor+%C2%B7+circuit;From+prototype+to+deployed+product" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1000&pause=450&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=116&lines=Computer+Science+%C3%97+Automatic+Control;Full-stack+projects+from+algorithm+to+device+to+product;Connecting+software+%C2%B7+model+%C2%B7+control+%C2%B7+hardware" alt="Typing introduction" />
 
   <p>
-    I build across full-stack software, AI tooling, embedded hardware, signal systems, security, and automatic control.
+    I build across computer science and automatic control: software systems, algorithms, AI tools, embedded hardware, signal chains, and control logic.
     <br />
-    My edge is joining layers that usually live apart: product thinking, software architecture, models, firmware, sensors, circuits, and real-world operation.
+    My strength is full-stack project delivery across academic foundations and engineering practice, from theory and modeling to firmware, circuits, dashboards, and deployed products.
   </p>
 
   <p>
     <a href="https://github.com/Aixgeekx?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-    <a href="https://space.bilibili.com/647504492"><img src="https://img.shields.io/badge/Bilibili-%E6%B3%B0%E6%9E%AB%E9%9B%B6-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili profile" /></a>
+    <a href="https://space.bilibili.com/647504492"><img src="https://img.shields.io/badge/Bilibili-Aix%E6%9E%81%E9%81%93%E5%B7%A5%E4%BD%9C%E5%AE%A4-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Aix Studio profile" /></a>
     <img src="https://img.shields.io/badge/Open%20To-Product%20%26%20Startup%20Collaboration-22C55E?style=for-the-badge" alt="Open to collaboration" />
   </p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Aixgeekx&color=2563EB&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-    <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full--Stack%20%7C%20Control%20%7C%20Hardware%20%7C%20Security-14B8A6?style=flat-square" alt="Focus areas" />
+    <img src="https://img.shields.io/badge/Focus-Computer%20Science%20%7C%20Automatic%20Control%20%7C%20Full--Stack%20Projects-14B8A6?style=flat-square" alt="Focus areas" />
   </p>
 
-  <sub>中文摘要：专注 AI 工程、全栈系统、自动控制、嵌入式硬件、网络安全与创业产品落地。</sub>
+  <sub>中文摘要：突出计算机科学与自动控制两个学科方向，覆盖算法、软件、AI、嵌入式、控制系统与项目全栈落地。</sub>
 </div>
 
 <p align="center">
@@ -42,23 +42,23 @@
   <tr>
     <td width="25%" valign="top">
       <img src="https://img.shields.io/badge/%E2%80%8B-2563EB?style=flat-square&label=%E2%80%8B&labelColor=2563EB" height="5" width="100%" alt="" /><br />
-      <strong>Software Systems</strong><br />
-      Frontend, backend, APIs, databases, deployment, observability, automation, and performance tuning.
+      <strong>Computer Science</strong><br />
+      Algorithms, data structures, software architecture, databases, operating environments, automation, and performance.
     </td>
     <td width="25%" valign="top">
       <img src="https://img.shields.io/badge/%E2%80%8B-14B8A6?style=flat-square&label=%E2%80%8B&labelColor=14B8A6" height="5" width="100%" alt="" /><br />
-      <strong>AI Engineering</strong><br />
-      Agents, MCP tools, RAG systems, model integration, prompt systems, evaluation, and AI-native workflows.
+      <strong>Automatic Control</strong><br />
+      Feedback loops, dynamic systems, signal flow, control logic, sensors, actuators, and real-world constraints.
     </td>
     <td width="25%" valign="top">
       <img src="https://img.shields.io/badge/%E2%80%8B-F59E0B?style=flat-square&label=%E2%80%8B&labelColor=F59E0B" height="5" width="100%" alt="" /><br />
-      <strong>Control & Signals</strong><br />
-      Feedback logic, dynamic systems, protocol conversion, ADC/DAC sampling, FFT analysis, and sensor fusion.
+      <strong>Project Full Stack</strong><br />
+      Frontend, backend, AI models, firmware, hardware signals, control strategies, data visualization, and deployment.
     </td>
     <td width="25%" valign="top">
       <img src="https://img.shields.io/badge/%E2%80%8B-22C55E?style=flat-square&label=%E2%80%8B&labelColor=22C55E" height="5" width="100%" alt="" /><br />
-      <strong>Hardware & Security</strong><br />
-      FPGA, STM32, ESP32, OpenMV, LiDAR, IoT security, reverse engineering, and secure system thinking.
+      <strong>AI & Hardware Systems</strong><br />
+      FPGA, STM32, ESP32, OpenMV, LiDAR, computer vision, IoT security, and software-hardware co-design.
     </td>
   </tr>
 </table>
@@ -66,16 +66,16 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>AI-native tools</strong><br />
-      Practical agent workflows, private knowledge systems, automation consoles, and developer productivity tools.
+      <strong>Academic-to-engineering bridge</strong><br />
+      Turn CS and control theory into runnable systems, measurable experiments, and usable products.
     </td>
     <td width="33%" valign="top">
       <strong>Control-aware products</strong><br />
       Systems where software interfaces, sensors, control logic, and operating constraints must work as one.
     </td>
     <td width="33%" valign="top">
-      <strong>Prototype-to-product delivery</strong><br />
-      MVPs, demos, hardware experiments, and maintainable product loops built from early-stage ideas.
+      <strong>End-to-end project stack</strong><br />
+      Requirements, architecture, algorithm/model, embedded implementation, backend, frontend, testing, and iteration.
     </td>
   </tr>
 </table>
@@ -178,15 +178,16 @@
 
 | Layer | Practical range |
 | :-- | :-- |
-| **Frontend & UX** | React, Vue, Next.js, Vite, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, responsive UI engineering |
-| **Backend & Data** | Node.js, Python, FastAPI, Express, REST APIs, auth, scheduled jobs, data modeling, query optimization |
-| **AI Engineering** | Claude Code, Codex, OpenAI API, MCP, RAG, agent workflows, prompt engineering, evaluation, AI automation |
+| **Computer Science Foundations** | Algorithms, data structures, software engineering, operating environments, database systems, networked applications |
+| **Automatic Control Foundations** | Dynamic systems, feedback control, signal flow, sensor-actuator loops, control constraints, system modeling mindset |
+| **Software Full Stack** | React, Vue, Next.js, Vite, TypeScript, Node.js, Python, FastAPI, Express, REST APIs, databases, deployment |
+| **AI Engineering** | Claude Code, Codex, OpenAI API, MCP, RAG, agent workflows, prompt engineering, model integration, evaluation |
 | **Computer Vision** | YOLOv5s, YOLOv11, OpenMV, image preprocessing, model lightweighting, mAP optimization, embedded deployment |
 | **Signals & Control** | ADC/DAC sampling, FFT analysis, SPI / I2C / UART, waveform generation, feedback systems, control logic |
 | **Embedded & Hardware** | Verilog, FPGA, STM32, ESP32, ESP8266, Arduino, sensors, PCB concepts, software-hardware debugging |
 | **Security Engineering** | OWASP Top 10, Burp Suite, Nmap, SQLMap, Wireshark, OpenSSL, Ghidra, IDA, IoT security, AI security |
 | **Systems & DevOps** | Linux, Docker, Nginx, GitHub Actions, Cloudflare, Vercel, deployment, logs, monitoring, automation scripts |
-| **Product Delivery** | MVP planning, roadmap, user stories, prototype validation, startup collaboration, technical execution |
+| **Project Delivery** | Academic analysis, requirements, architecture, implementation, embedded validation, dashboard delivery, iteration |
 
 ## Toolbox
 
@@ -289,17 +290,15 @@
 
 <div align="center">
   <a href="https://space.bilibili.com/647504492"><img src="https://img.shields.io/badge/Bilibili-Aix%E6%9E%81%E9%81%93%E5%B7%A5%E4%BD%9C%E5%AE%A4-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Aix Studio profile" /></a>
+  <br />
+  <sub>Aix 极道工作室 · tech creator profile · software / AI / hardware collaboration · WeChat: Aixgeekx</sub>
 </div>
 
 <table>
   <tr>
     <td width="25%" align="center" valign="top">
-      <strong>2.156M</strong><br />
-      <sub>Views · 215.6 万播放</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <strong>120K</strong><br />
-      <sub>Likes · 12.0 万获赞</sub>
+      <strong>Aix Studio</strong><br />
+      <sub>Profile identity · Aix 极道工作室</sub>
     </td>
     <td width="25%" align="center" valign="top">
       <strong>1,073</strong><br />
@@ -308,6 +307,31 @@
     <td width="25%" align="center" valign="top">
       <strong>553</strong><br />
       <sub>Followers · 粉丝数</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <strong>LV5</strong><br />
+      <sub>Bilibili level · 账号等级</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <strong>Traffic Data</strong><br />
+      <img src="https://img.shields.io/badge/Views-2%2C155%2C534-00A1D6?style=flat-square" alt="Bilibili views" />
+      <img src="https://img.shields.io/badge/Followers-553-00A1D6?style=flat-square" alt="Bilibili followers" /><br />
+      <sub>Data center reference: 215.5 万播放 · 553 粉丝</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <strong>Engagement Data</strong><br />
+      <img src="https://img.shields.io/badge/Likes-120%2C187-FF6699?style=flat-square" alt="Bilibili likes" />
+      <img src="https://img.shields.io/badge/Favorites-8%2C533-FF6699?style=flat-square" alt="Bilibili favorites" />
+      <img src="https://img.shields.io/badge/Coins-3%2C019-FF6699?style=flat-square" alt="Bilibili coins" /><br />
+      <img src="https://img.shields.io/badge/Comments-4%2C362-FF6699?style=flat-square" alt="Bilibili comments" />
+      <img src="https://img.shields.io/badge/Danmaku-7%2C532-FF6699?style=flat-square" alt="Bilibili danmaku" />
+      <img src="https://img.shields.io/badge/Shares-5%2C261-FF6699?style=flat-square" alt="Bilibili shares" /><br />
+      <sub>Interaction reference: 点赞、收藏、投币、评论、弹幕、分享</sub>
     </td>
   </tr>
 </table>
@@ -321,8 +345,9 @@
 </div>
 
 - Building reliable AI-native development workflows and practical agent tools.
+- Deepening the computer science + automatic control stack through real projects, experiments, and competition systems.
 - Expanding from full-stack software toward control-aware, hardware-connected intelligent systems.
-- Making FPGA, embedded, security, and automatic-control learning repeatable through clear experiments.
+- Making FPGA, embedded, security, signal-processing, and automatic-control learning repeatable through clear experiments.
 - Turning early ideas into MVPs through architecture, implementation, testing, and iteration.
 
 ---
