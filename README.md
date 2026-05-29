@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Focus-Computer%20Science%20%7C%20Automatic%20Control%20%7C%20Full--Stack%20Projects-14B8A6?style=flat-square" alt="Focus areas" />
   </p>
 
-  <sub>中文摘要：突出计算机科学与自动控制两个学科方向，覆盖算法、软件、AI、嵌入式、控制系统与项目全栈落地。</sub>
+  <sub>摘要：突出计算机科学与自动控制两个学科方向，覆盖算法、软件、AI、嵌入式、控制系统与项目全栈落地。</sub>
 </div>
 
 <p align="center">
@@ -140,7 +140,7 @@
         <img src="https://img.shields.io/badge/LiDAR-2563EB?style=flat-square" alt="LiDAR" />
         <img src="https://img.shields.io/badge/Mecanum%20Chassis-111827?style=flat-square" alt="Mecanum chassis" />
       </p>
-      <sub>中文：物流搬运小车与激光对抗小车，融合视觉、雷达、底盘控制与机械夹爪。</sub>
+      <sub>摘要：物流搬运小车与激光对抗小车，融合视觉、雷达、底盘控制与机械夹爪。</sub>
     </td>
     <td width="50%" valign="top">
       <h3>FPGA Multi-Function Digital Signal Debugger</h3>
@@ -152,7 +152,7 @@
         <img src="https://img.shields.io/badge/SPI%20%7C%20I2C%20%7C%20UART-14B8A6?style=flat-square" alt="Protocols" />
         <img src="https://img.shields.io/badge/35Msps%20ADC%2FDAC-F59E0B?style=flat-square" alt="ADC DAC" />
       </p>
-      <sub>中文：基于 FPGA 的多功能数字信号调试器，覆盖协议转换、采样生成、波形显示与 FFT。</sub>
+      <sub>摘要：基于 FPGA 的多功能数字信号调试器，覆盖协议转换、采样生成、波形显示与 FFT。</sub>
     </td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@
         <img src="https://img.shields.io/badge/ESP8266-111827?style=flat-square" alt="ESP8266" />
         <img src="https://img.shields.io/badge/mAP-90.7%25-22C55E?style=flat-square" alt="mAP 90.7%" />
       </p>
-      <sub>中文：车辆零部件表面缺陷检测，从摄像头采集、模型优化、嵌入式部署到 Web 可视化。</sub>
+      <sub>摘要：车辆零部件表面缺陷检测，从摄像头采集、模型优化、嵌入式部署到 Web 可视化。</sub>
     </td>
   </tr>
 </table>
