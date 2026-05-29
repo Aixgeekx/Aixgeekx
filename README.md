@@ -1,10 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,24:2563EB,52:14B8A6,78:F59E0B,100:22C55E&height=240&section=header&text=Aixgeekx&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Systems%20%C3%97%20Automatic%20Control%20%C3%97%20AI%20Engineering%20%C3%97%20Hardware&descSize=17&descAlignY=66" alt="Aixgeekx profile header" />
 
-  <h3>Near full-stack across computer systems and automatic control.</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+systems+that+cross+boundaries;Software+%C3%97+AI+%C3%97+Hardware+%C3%97+Control;From+prototype+to+deployed+product" alt="Typing SVG" /></a>
+
   <p>
-    Building end-to-end across software, AI, embedded hardware, control logic, and product delivery — connecting disciplines that are usually kept apart.
-    <br />
     <sub>中文：在计算机领域和自动控制科学领域具备跨层能力，擅长系统集成、工程落地和跨学科协作。</sub>
   </p>
 
@@ -14,6 +13,8 @@
     <img src="https://img.shields.io/badge/Range-Automatic%20Control-14B8A6?style=for-the-badge" alt="Automatic control" />
     <img src="https://img.shields.io/badge/Core-Cross-Domain%20Builder-F59E0B?style=for-the-badge" alt="Cross-domain builder" />
   </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Aixgeekx&color=2563EB&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <p align="center">
@@ -24,6 +25,8 @@
   <a href="#project-experience">Project Experience</a> ·
   <a href="#competition-awards">Competition Awards</a> ·
   <a href="#capability-map">Capability Map</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#github-activity">Activity</a> ·
   <a href="#contact">Contact</a>
 </p>
 
@@ -229,7 +232,7 @@
     <td width="33%" align="center" valign="top">
       <strong>十一届全国大学生统计建模大赛</strong><br />
       <sub>本科组二等奖 · 2025.05</sub><br />
-      <img src="https://img.shields.io/badge/🥈-Second%20Prize-F59E0B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTQiPvCfnoU8L3RleHQ+PC9zdmc+" alt="Second prize" />
+      <img src="https://img.shields.io/badge/🥈-Second%20Prize-F59E0B?style=flat-square" alt="Second prize" />
     </td>
     <td width="33%" align="center" valign="top">
       <strong>全国大学生数学建模大赛</strong><br />
@@ -261,6 +264,9 @@
 
 ## Capability Map
 
+<details>
+<summary><strong>Click to expand full capability breakdown</strong></summary>
+
 | Layer | Practical skills |
 | :-- | :-- |
 | **Frontend & UX** | React, Vue, Next.js, Vite, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, responsive UI engineering |
@@ -274,9 +280,14 @@
 | **Mechanical Integration** | Mecanum wheel chassis, mechanical gripper, LiDAR integration, multi-sensor fusion, motor drive circuits |
 | **Product & Startup** | User stories, MVP planning, roadmap, technical due diligence, founder support, delivery management |
 
+</details>
+
 ---
 
 ## Tech Stack
+
+<details>
+<summary><strong>Click to expand all tech badges</strong></summary>
 
 **Frontend & UI**<br />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React" />
@@ -334,6 +345,26 @@
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 
+</details>
+
+---
+
+## Skill Proficiency
+
+<div align="center">
+
+| Skill | Level | Bar |
+|:--|:--|:--|
+| **Full-Stack Web** | Advanced | `██████████░░` |
+| **Embedded & FPGA** | Advanced | `█████████░░░` |
+| **Computer Vision / YOLO** | Proficient | `████████░░░░` |
+| **Signal Processing** | Proficient | `████████░░░░` |
+| **AI Engineering / Agent** | Proficient | `████████░░░░` |
+| **Control Systems** | Intermediate | `███████░░░░░` |
+| **DevOps & Infra** | Intermediate | `██████░░░░░░` |
+
+</div>
+
 ---
 
 ## GitHub Activity
@@ -344,12 +375,34 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aixgeekx&theme=transparent&hide_border=true&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB" alt="GitHub streak stats" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aixgeekx&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aixgeekx&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub trophies" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aixgeekx/Aixgeekx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aixgeekx/Aixgeekx/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Aixgeekx/Aixgeekx/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
 
 ## Current Focus
+
+<div align="center">
+
+> *"The best way to predict the future is to build it."*
+
+</div>
 
 - Building reliable AI-native development workflows and practical agent tools.
 - Expanding from software full-stack toward control-aware, hardware-connected intelligent systems.
