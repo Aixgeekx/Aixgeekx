@@ -264,25 +264,18 @@
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aixgeekx&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=2563EB&icon_color=14B8A6&text_color=334155" alt="Aixgeekx GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aixgeekx&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155" alt="Aixgeekx top languages" />
+  <img src="assets/github-activity.svg" width="100%" alt="GitHub activity dashboard" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aixgeekx&theme=transparent&hide_border=true&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB" alt="GitHub streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aixgeekx&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub activity graph" />
-</div>
-
-<div align="center">
+<details>
+<summary><strong>Contribution snake</strong></summary>
+<br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aixgeekx/Aixgeekx/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aixgeekx/Aixgeekx/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Aixgeekx/Aixgeekx/output/github-snake.svg" />
   </picture>
-</div>
+</details>
 
 ---
 
@@ -291,7 +284,8 @@
 <div align="center">
   <a href="https://space.bilibili.com/647504492"><img src="https://img.shields.io/badge/Bilibili-Aix%E6%9E%81%E9%81%93%E5%B7%A5%E4%BD%9C%E5%AE%A4-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Aix Studio profile" /></a>
   <br />
-  <sub>Aix 极道工作室 · tech creator profile · software / AI / hardware collaboration · WeChat: Aixgeekx</sub>
+  <strong>Aix 极道工作室</strong><br />
+  <sub>Tech creator profile · software / AI / hardware collaboration · WeChat: Aixgeekx</sub>
 </div>
 
 <table>
@@ -315,24 +309,19 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="assets/bilibili-traffic.svg" width="49%" alt="Bilibili traffic trend chart" />
+  <img src="assets/bilibili-engagement.svg" width="49%" alt="Bilibili engagement trend chart" />
+</div>
+
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <strong>Traffic Data</strong><br />
-      <img src="https://img.shields.io/badge/Views-2%2C155%2C534-00A1D6?style=flat-square" alt="Bilibili views" />
-      <img src="https://img.shields.io/badge/Followers-553-00A1D6?style=flat-square" alt="Bilibili followers" /><br />
-      <sub>Data center reference: 215.5 万播放 · 553 粉丝</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <strong>Engagement Data</strong><br />
-      <img src="https://img.shields.io/badge/Likes-120%2C187-FF6699?style=flat-square" alt="Bilibili likes" />
-      <img src="https://img.shields.io/badge/Favorites-8%2C533-FF6699?style=flat-square" alt="Bilibili favorites" />
-      <img src="https://img.shields.io/badge/Coins-3%2C019-FF6699?style=flat-square" alt="Bilibili coins" /><br />
-      <img src="https://img.shields.io/badge/Comments-4%2C362-FF6699?style=flat-square" alt="Bilibili comments" />
-      <img src="https://img.shields.io/badge/Danmaku-7%2C532-FF6699?style=flat-square" alt="Bilibili danmaku" />
-      <img src="https://img.shields.io/badge/Shares-5%2C261-FF6699?style=flat-square" alt="Bilibili shares" /><br />
-      <sub>Interaction reference: 点赞、收藏、投币、评论、弹幕、分享</sub>
-    </td>
+    <td width="16%" align="center" valign="top"><strong>120,187</strong><br /><sub>Likes · 点赞</sub></td>
+    <td width="16%" align="center" valign="top"><strong>8,533</strong><br /><sub>Favorites · 收藏</sub></td>
+    <td width="16%" align="center" valign="top"><strong>3,019</strong><br /><sub>Coins · 投币</sub></td>
+    <td width="16%" align="center" valign="top"><strong>4,362</strong><br /><sub>Comments · 评论</sub></td>
+    <td width="16%" align="center" valign="top"><strong>7,532</strong><br /><sub>Danmaku · 弹幕</sub></td>
+    <td width="16%" align="center" valign="top"><strong>5,261</strong><br /><sub>Shares · 分享</sub></td>
   </tr>
 </table>
 
