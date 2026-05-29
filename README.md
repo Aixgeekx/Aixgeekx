@@ -283,6 +283,10 @@
 | **Embedded & Hardware** | Verilog, FPGA (Gowin ACG720), STM32, ESP32, ESP8266, Arduino, digital logic, PCB concepts, sensors, embedded debugging |
 | **Mechanical Integration** | Mecanum wheel chassis, mechanical gripper, LiDAR integration, multi-sensor fusion, motor drive circuits |
 | **Product & Startup** | User stories, MVP planning, roadmap, technical due diligence, founder support, delivery management |
+| **Web Security** | OWASP Top 10, Burp Suite, SQLMap, Nmap, Nikto, penetration testing, vulnerability assessment, secure code review |
+| **Embedded & IoT Security** | Firmware extraction and analysis, JTAG/SWD debugging, Ghidra/IDA reverse engineering, Bus Pirate, side-channel basics, secure boot |
+| **AI Security** | Adversarial robustness, prompt injection defense, model security evaluation, AI red teaming, data poisoning awareness |
+| **Cryptography & Protocol** | OpenSSL, Wireshark, TLS/IPSec analysis, cryptographic implementation, key management, protocol fuzzing |
 
 </details>
 
@@ -340,6 +344,18 @@
 <img src="https://img.shields.io/badge/Ethernet-22C55E?style=flat-square" alt="Ethernet" />
 <img src="https://img.shields.io/badge/Control%20Systems-14B8A6?style=flat-square" alt="Control Systems" />
 
+**Security & Red Team**<br />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-4F4F4F?style=flat-square" alt="OWASP ZAP" />
+<img src="https://img.shields.io/badge/Nmap-2C3E50?style=flat-square" alt="Nmap" />
+<img src="https://img.shields.io/badge/SQLMap-2C3E50?style=flat-square" alt="SQLMap" />
+<img src="https://img.shields.io/badge/Metasploit-2C3E50?style=flat-square" alt="Metasploit" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL" />
+<img src="https://img.shields.io/badge/Ghidra-555555?style=flat-square" alt="Ghidra" />
+<img src="https://img.shields.io/badge/IDA%20Pro-F59E0B?style=flat-square" alt="IDA Pro" />
+
 **Tools & Platforms**<br />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -364,6 +380,9 @@
 | **Computer Vision / YOLO** | Proficient | `████████░░░░` |
 | **Signal Processing** | Proficient | `████████░░░░` |
 | **AI Engineering / Agent** | Proficient | `████████░░░░` |
+| **Web Security / Pentest** | Proficient | `████████░░░░` |
+| **Embedded & IoT Security** | Proficient | `████████░░░░` |
+| **Cryptography & Protocol** | Intermediate | `███████░░░░░` |
 | **Control Systems** | Intermediate | `███████░░░░░` |
 | **DevOps & Infra** | Intermediate | `██████░░░░░░` |
 
@@ -399,7 +418,7 @@
 ## Creator Profile
 
 <div align="center">
-  <a href="https://space.bilibili.com"><img src="https://img.shields.io/badge/Bilibili-泰枫零-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+  <a href="https://space.bilibili.com/647504492"><img src="https://img.shields.io/badge/Bilibili-泰枫零-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
 </div>
 
 <table>
