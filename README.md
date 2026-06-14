@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Focus-Computer%20Science%20%7C%20Automatic%20Control%20%7C%20Full--Stack%20Projects-14B8A6?style=flat-square" alt="Focus areas" />
   </p>
 
-  <sub>摘要：突出计算机科学与自动控制两个学科方向，覆盖算法、软件、AI、嵌入式、控制系统与项目全栈落地。</sub>
+  <sub>摘要：计算机科学与自动控制学科方向，覆盖算法、软件、AI、嵌入式、控制系统与项目全栈落地。</sub>
 </div>
 
 <p align="center">
